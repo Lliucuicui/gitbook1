@@ -1,0 +1,23 @@
+{
+  "name": "gitbook1",
+  "version": "1.0.0",
+  "description": "几部好电影分享",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lliucuicui/gitbook1.git"
+  },
+  "keywords": [],
+  "author": "Lliucuicui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lliucuicui/gitbook1/issues"
+  },
+  "homepage": "https://github.com/Lliucuicui/gitbook1#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
